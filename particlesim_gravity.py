@@ -2,10 +2,6 @@ import pygame
 import math
 import random
 
-#COLLISIONS WITH BALLS (AS IF THEY WERE A WALL)
-
-#WHEN COLLIDE BALLS MULTIPLY
-
 pygame.init()
 
 WIDTH, HEIGHT = 1080, 720
