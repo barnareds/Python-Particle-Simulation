@@ -9,12 +9,11 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Simulation')
 
 BOUNCE_STOP = 1.5
-
 FPS = 60
+
 G = .1
 XBORDER = (40, WIDTH - 40)
 YBORDER = (40, HEIGHT - 40)
-
 
 class Particle:
 
